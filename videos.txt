@@ -1,0 +1,194 @@
+1) Python Engineer-Deep Learning With PyTorch - Full Course
+https://www.youtube.com/watch?v=c36lUUr864M
+2) Python Engineer-Create A Chatbot GUI Application With Tkinter - Python Tutorial
+https://www.youtube.com/watch?v=RNEcewpVZUQ
+3) Python Engineer-Build A Stock Prediction Web App In Python
+https://www.youtube.com/watch?v=0E_31WqVzCY
+4) Python Engineer-Machine Learning From Scratch In Python - Full Course With 12 Algorithms (5 HOURS)
+https://www.youtube.com/watch?v=rLOyrWV8gmA
+5) Python Engineer-Awesome Python Automation Ideas
+https://www.youtube.com/watch?v=VLNcnROUTb8
+6) Python Engineer-How I Edit My Videos With Python - Python Task Automation
+https://www.youtube.com/watch?v=BBFub0zErFA
+7) Python Engineer-How To Schedule Python Scripts As Cron Jobs With Crontab (Mac/Linux) - Python Task Automation
+https://www.youtube.com/watch?v=5bTkiV_Aadc
+8) Python Engineer-AI Learns To Play Snake In 100 Games #Shorts
+https://www.youtube.com/watch?v=0Uzei5q2DFQ
+9) Python Engineer-Build A Website Blocker With Python - Task Automation Tutorial
+https://www.youtube.com/watch?v=iWi4Z-5JNZw
+10) Python Engineer-Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame (Part 4)
+https://www.youtube.com/watch?v=VGkcmBaeAGM
+11) Python Engineer-Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame (Part 3)
+https://www.youtube.com/watch?v=6pJBPPrDO40
+12) Python Engineer-Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame (Part 2)
+https://www.youtube.com/watch?v=5Vy5Dxu7vDs
+13) Python Engineer-Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame (Part 1)
+https://www.youtube.com/watch?v=PJl4iabBEz0
+14) Python Engineer-Python Snake Game With Pygame - Create Your First Pygame Application
+https://www.youtube.com/watch?v=--nsd2ZeYvs
+15) Python Engineer-PyTorch LR Scheduler - Adjust The Learning Rate For Better Results
+https://www.youtube.com/watch?v=81NJgoR5RfY
+16) Python Engineer-Docker Tutorial For Beginners - How To Containerize Python Applications
+https://www.youtube.com/watch?v=bi0cKgmRuiA
+17) Python Engineer-Object Oriented Programming (OOP) In Python - Beginner Crash Course
+https://www.youtube.com/watch?v=-pEs-Bss8Wc
+18) Python Engineer-FastAPI Introduction - Build Your First Web App - Python Tutorial
+https://www.youtube.com/watch?v=0RS9W8MtZe4
+19) Python Engineer-TensorFlow Tutorial 11 - Text Classification - NLP Tutorial
+https://www.youtube.com/watch?v=kxeyoyrf2cM
+20) Python Engineer-TensorFlow Tutorial 10 - Recurrent Neural Nets (RNN &amp; LSTM &amp; GRU)
+https://www.youtube.com/watch?v=IrPhMM_RUmg
+21) Python Engineer-5 Machine Learning BEGINNER Projects (+ Datasets &amp; Solutions)
+https://www.youtube.com/watch?v=bYSeGBOLzqw
+22) Python Engineer-TensorFlow Tutorial 09 - Transfer Learning
+https://www.youtube.com/watch?v=8cN0PiZQl18
+23) Python Engineer-TensorFlow Tutorial 08 - Classify Lego Star Wars Minifigures | Full Project Walkthrough
+https://www.youtube.com/watch?v=Li5c49YV9wA
+24) Python Engineer-TensorFlow Tutorial 07 - Functional API + Multi-output Project
+https://www.youtube.com/watch?v=JN08CqZKKkA
+25) Python Engineer-TensorFlow Tutorial 06 - Save &amp; Load Models
+https://www.youtube.com/watch?v=NVY0FucNRU4
+26) Python Engineer-TensorFlow Tutorial 05 - Convolutional Neural Network (CNN)
+https://www.youtube.com/watch?v=eMMZpas-zX0
+27) Python Engineer-TensorFlow Tutorial 04 - Linear Regression - Full Project Walkthrough
+https://www.youtube.com/watch?v=g2t7M2HTZ9U
+28) Python Engineer-TensorFlow Tutorial 03 - First Neural Network (Training, Evaluation &amp; Prediction)
+https://www.youtube.com/watch?v=Edhv7-4t0lc
+30) Python Engineer-TensorFlow Tutorial 02 - Tensor Basics - Beginner Course
+https://www.youtube.com/watch?v=PcstG8qiObc
+31) Python Engineer-TensorFlow Tutorial 01 - Installation - Beginner Course
+https://www.youtube.com/watch?v=hvgnX1gbsLA
+32) Python Engineer-Build A PyTorch Style Transfer Web App With Streamlit
+https://www.youtube.com/watch?v=M3lZNbFJ6I0
+33) Python Engineer-Python Quick Tip: Debugger and breakpoint()
+https://www.youtube.com/watch?v=aZJnGOwzHtU
+34) Python Engineer-Python Quick Tip: Interactive Mode
+https://www.youtube.com/watch?v=KjHKbmjFZLk
+35) Python Engineer-10k Subscribers &amp; Channel Update
+https://www.youtube.com/watch?v=bEbExOKanR8
+36) Python Engineer-PyTorch Tutorial - RNN &amp; LSTM &amp; GRU - Recurrent Neural Nets
+https://www.youtube.com/watch?v=0_PgWWmauHk
+37) Python Engineer-PyTorch RNN Tutorial - Name Classification Using A Recurrent Neural Net
+https://www.youtube.com/watch?v=WEV61GmmPrk
+38) Python Engineer-PyTorch Lightning Tutorial - Lightweight PyTorch Wrapper For ML Researchers
+https://www.youtube.com/watch?v=Hgg8Xy6IRig
+39) Python Engineer-My Minimal VS Code Setup for Python - 5 Visual Studio Code Extensions
+https://www.youtube.com/watch?v=Z3i04RoI9Fk
+40) Python Engineer-NumPy Crash Course 2020 - Complete Tutorial
+https://www.youtube.com/watch?v=9JUAPgtkKpI
+41) Python Engineer-Create &amp; Deploy A Deep Learning App - PyTorch Model Deployment With Flask &amp; Heroku
+https://www.youtube.com/watch?v=bA7-DEtYCNM
+42) Python Engineer-Coding Interview Question - Nth Fibonacci
+https://www.youtube.com/watch?v=VbCGxhGTjeE
+43) Python Engineer-Snake Game In Python - Python Beginner Tutorial
+https://www.youtube.com/watch?v=M_npdRYD4K0
+44) Python Engineer-11 Tips And Tricks To Write Better Python Code
+https://www.youtube.com/watch?v=8OKTAedgFYg
+45) Python Engineer-Python Flask Beginner Tutorial - Todo App - Crash Course
+https://www.youtube.com/watch?v=yKHJsLUENl0
+46) Python Engineer-Chat Bot With PyTorch - NLP And Deep Learning - Python Tutorial (Part 4)
+https://www.youtube.com/watch?v=k1SzvvFtl4w
+47) Python Engineer-Chat Bot With PyTorch - NLP And Deep Learning - Python Tutorial (Part 3)
+https://www.youtube.com/watch?v=Da-iHgrmHYg
+48) Python Engineer-Chat Bot With PyTorch - NLP And Deep Learning - Python Tutorial (Part 2)
+https://www.youtube.com/watch?v=8qwowmiXANQ
+49) Python Engineer-Chat Bot With PyTorch - NLP And Deep Learning - Python Tutorial (Part 1)
+https://www.youtube.com/watch?v=RpWeNzfSUHw
+50) Python Engineer-Build A Beautiful Machine Learning Web App With Streamlit And Scikit-learn | Python Tutorial
+https://www.youtube.com/watch?v=Klqn--Mu2pE
+51) Python Engineer-Build &amp; Deploy A Python Web App To Automate Twitter | Flask, Heroku, Twitter API &amp; Google Sheets API
+https://www.youtube.com/watch?v=yCYPzoG25ak
+52) Python Engineer-Google Sheets and Python - Tutorial 2020
+https://www.youtube.com/watch?v=T1vqS1NL89E
+53) Python Engineer-LDA (Linear Discriminant Analysis) In Python - ML From Scratch 14 - Python Tutorial
+https://www.youtube.com/watch?v=9IDXYHhAfGA
+54) Python Engineer-TinyDB in Python - Simple Database For Personal Projects
+https://www.youtube.com/watch?v=aP2KJoTITO0
+55) Python Engineer-How To Load Machine Learning Data From Files In Python
+https://www.youtube.com/watch?v=eivDTOlA0TE
+56) Python Engineer-Regular Expressions in Python - FULL COURSE (1 HOUR) - Programming Tutorial
+https://www.youtube.com/watch?v=AEE9ecgLgdQ
+57) Python Engineer-PyTorch Tutorial 17 - Saving and Loading Models
+https://www.youtube.com/watch?v=9L9jEOwRrCg
+58) Python Engineer-PyTorch Tutorial 16 - How To Use The TensorBoard
+https://www.youtube.com/watch?v=VJW9wU-1n18
+59) Python Engineer-Complete FREE Study Guide for Machine Learning and Deep Learning
+https://www.youtube.com/watch?v=dYvt3vSJaQA
+60) Python Engineer-AdaBoost in Python - Machine Learning From Scratch 13 - Python Tutorial
+https://www.youtube.com/watch?v=wF5t4Mmv5us
+61) Python Engineer-YouTube Data API Tutorial with Python - Analyze the Data - Part 4
+https://www.youtube.com/watch?v=XqYpE6jqdww
+62) Python Engineer-YouTube Data API Tutorial with Python - Get Video Statistics - Part 3
+https://www.youtube.com/watch?v=itiRd7iZ2_M
+63) Python Engineer-YouTube Data API Tutorial with Python - Find Channel Videos - Part 2
+https://www.youtube.com/watch?v=4FwXqOT4-FM
+64) Python Engineer-YouTube Data API Tutorial with Python - Analyze Channel Statistics - Part 1
+https://www.youtube.com/watch?v=5qtC-tsQ-wE
+65) Python Engineer-PyTorch Tutorial 15 - Transfer Learning
+https://www.youtube.com/watch?v=K0lWSB2QoIQ
+66) Python Engineer-The Walrus Operator - New in Python 3.8 - Python Tutorial
+https://www.youtube.com/watch?v=Q8oRicpUeuw
+67) Python Engineer-PyTorch Tutorial 14 - Convolutional Neural Network (CNN)
+https://www.youtube.com/watch?v=pDdP0TFzsoQ
+68) Python Engineer-How To Add A Progress Bar In Python With Just One Line - Python Tutorial
+https://www.youtube.com/watch?v=FptVpIPhdpM
+69) Python Engineer-PyTorch Tutorial 13 - Feed-Forward Neural Network
+https://www.youtube.com/watch?v=oPhxf2fXHkQ
+70) Python Engineer-List Comprehension in Python - A Python Feature You MUST KNOW - Python Tutorial
+https://www.youtube.com/watch?v=RaIu2-NM0t0
+71) Python Engineer-PyTorch Tutorial 12 - Activation Functions
+https://www.youtube.com/watch?v=3t9lZM7SS7k
+72) Python Engineer-Select Movies with Python - Web Scraping Tutorial
+https://www.youtube.com/watch?v=FoPPgcpSmNs
+73) Python Engineer-PyTorch Tutorial 11 - Softmax and Cross Entropy
+https://www.youtube.com/watch?v=7q7E91pHoW4
+74) Python Engineer-Download Images With Python Automatically - Python Web Scraping Tutorial
+https://www.youtube.com/watch?v=t2k5Lsbpj8Y
+75) Python Engineer-PyTorch Tutorial 10 - Dataset Transforms
+https://www.youtube.com/watch?v=X_QOZEko5uE
+76) Python Engineer-PyTorch Tutorial 09 - Dataset and DataLoader - Batch Training
+https://www.youtube.com/watch?v=PXOzkkB5eH0
+77) Python Engineer-PyTorch Tutorial 08 - Logistic Regression
+https://www.youtube.com/watch?v=OGpQxIkR4ao
+78) Python Engineer-PyTorch Tutorial 07 - Linear Regression
+https://www.youtube.com/watch?v=YAJ5XBwlN4o
+79) Python Engineer-PyTorch Tutorial 06 - Training Pipeline: Model, Loss, and Optimizer
+https://www.youtube.com/watch?v=VVDHU_TWwUg
+80) Python Engineer-PyTorch Tutorial 05 - Gradient Descent with Autograd and Backpropagation
+https://www.youtube.com/watch?v=E-I2DNVzQLg
+81) Python Engineer-PyTorch Tutorial 04 - Backpropagation - Theory With Example
+https://www.youtube.com/watch?v=3Kb0QS6z7WA
+82) Python Engineer-PyTorch Tutorial 03 - Gradient Calculation With Autograd
+https://www.youtube.com/watch?v=DbeIqrwb_dE
+84) Python Engineer-PyTorch Tutorial 02 - Tensor Basics
+https://www.youtube.com/watch?v=exaWOE8jvy8
+85) Python Engineer-PyTorch Tutorial 01 - Installation
+https://www.youtube.com/watch?v=EMXfZB8FVUA
+86) Python Engineer-Anaconda Tutorial - Installation and Basic Commands
+https://www.youtube.com/watch?v=9nEh-OXVaNI
+87) Python Engineer-K-Means Clustering in Python - Machine Learning From Scratch 12 - Python Tutorial
+https://www.youtube.com/watch?v=vtuH4VRq1AU
+88) Python Engineer-PCA (Principal Component Analysis) in Python - Machine Learning From Scratch 11 - Python Tutorial
+https://www.youtube.com/watch?v=52d7ha-GdV8
+89) Python Engineer-Random Forest in Python - Machine Learning From Scratch 10 - Python Tutorial
+https://www.youtube.com/watch?v=Oq1cKjR8hNo
+90) Python Engineer-Decision Tree in Python Part 2/2 - Machine Learning From Scratch 09 - Python Tutorial
+https://www.youtube.com/watch?v=Bqi7EFFvNOg
+91) Python Engineer-Decision Tree in Python Part 1/2 - Machine Learning From Scratch 08 - Python Tutorial
+https://www.youtube.com/watch?v=jVh5NA9ERDA
+92) Python Engineer-SVM (Support Vector Machine) in Python - Machine Learning From Scratch 07 - Python Tutorial
+https://www.youtube.com/watch?v=UX0f9BNBcsY
+93) Python Engineer-Perceptron in Python - Machine Learning From Scratch 06 - Python Tutorial
+https://www.youtube.com/watch?v=t2ym2a3pb_Y
+94) Python Engineer-Naive Bayes in Python - Machine Learning From Scratch 05 - Python Tutorial
+https://www.youtube.com/watch?v=BqUmKsfSWho
+95) Python Engineer-Linear and Logistic Regression in 60 lines of Python - Machine Learning From Scratch 04
+https://www.youtube.com/watch?v=PC7cVBbU7UQ
+96) Python Engineer-Logistic Regression in Python - Machine Learning From Scratch 03 - Python Tutorial
+https://www.youtube.com/watch?v=JDU3AzH3WKg
+98) Python Engineer-Linear Regression in Python - Machine Learning From Scratch 02 - Python Tutorial
+https://www.youtube.com/watch?v=4swNt7PiamQ
+99) Python Engineer-KNN (K Nearest Neighbors) in Python - Machine Learning From Scratch 01 - Python Tutorial
+https://www.youtube.com/watch?v=ngLyX54e1LU
+100) Python Engineer-Context Managers in Python - Advanced Python 21 - Programming Tutorial
+https://www.youtube.com/watch?v=YE6a31J65Rc

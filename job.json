@@ -1,0 +1,3402 @@
+[
+    {
+        "kind": "youtube#searchResult",
+        "etag": "A2bUh5Bnud01XLJ1Q8fEO2uhRTI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "c36lUUr864M"
+        },
+        "snippet": {
+            "publishedAt": "2021-02-24T15:00:15Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Deep Learning With PyTorch - Full Course",
+            "description": "In this course you learn all the fundamentals to get started with PyTorch and Deep Learning. \u2b50 Check out Tabnine, the FREE AI-powered code completion tool I ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/c36lUUr864M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/c36lUUr864M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/c36lUUr864M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-02-24T15:00:15Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "m4osbt2Pm-TnPxRfk7qjAeNWVBQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "RNEcewpVZUQ"
+        },
+        "snippet": {
+            "publishedAt": "2021-02-15T15:00:09Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Create A Chatbot GUI Application With Tkinter - Python Tutorial",
+            "description": "In this Python Tutorial we build a GUI application with Tkinter for a chatbot. \u2b50 Check out Tabnine, the FREE AI-powered code completion tool I used in this ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/RNEcewpVZUQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/RNEcewpVZUQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/RNEcewpVZUQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-02-15T15:00:09Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "kD3ikbw2d8Ffp4fivGbK24TrPDk",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "0E_31WqVzCY"
+        },
+        "snippet": {
+            "publishedAt": "2021-02-07T15:10:05Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Build A Stock Prediction Web App In Python",
+            "description": "In this tutorial we build a stock prediction web app in Python using streamlit, yahoo finance, and Facebook Prophet Get my Free NumPy Handbook: ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0E_31WqVzCY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0E_31WqVzCY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0E_31WqVzCY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-02-07T15:10:05Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "mLE69HPVacu2Hfz0mwRoIqlk7uI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "rLOyrWV8gmA"
+        },
+        "snippet": {
+            "publishedAt": "2021-01-23T15:00:14Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Machine Learning From Scratch In Python - Full Course With 12 Algorithms (5 HOURS)",
+            "description": "In this course we implement the most popular Machine Learning algorithms from scratch using only Python and NumPy. Get my Free NumPy Handbook: ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rLOyrWV8gmA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rLOyrWV8gmA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rLOyrWV8gmA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-01-23T15:00:14Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "CKJ-LYP1mtbo3dUdxl5Xm60zzoY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "VLNcnROUTb8"
+        },
+        "snippet": {
+            "publishedAt": "2021-01-18T14:30:03Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Awesome Python Automation Ideas",
+            "description": "In this Tutorial I share quick Python Automation Ideas that you can use everyday to simplify your life. \ud83e\ude81 Code faster with Kite, AI-powered autocomplete that ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VLNcnROUTb8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VLNcnROUTb8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VLNcnROUTb8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-01-18T14:30:03Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "T5_qN_Ofk-srynA2fVae66Ssxuw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "BBFub0zErFA"
+        },
+        "snippet": {
+            "publishedAt": "2021-01-13T14:00:05Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "How I Edit My Videos With Python - Python Task Automation",
+            "description": "In this tutorial, I show you how I edit my videos using Python and MoviePy. MoviePy is a Python module for video editing, which can be used for basic operations ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BBFub0zErFA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BBFub0zErFA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BBFub0zErFA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-01-13T14:00:05Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "nkLucuWziaaVGP70bz7-mJaBvBI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "5bTkiV_Aadc"
+        },
+        "snippet": {
+            "publishedAt": "2021-01-07T16:41:32Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "How To Schedule Python Scripts As Cron Jobs With Crontab (Mac/Linux) - Python Task Automation",
+            "description": "In this tutorial, we learn about cron jobs and how to schedule commands and Python scripts in the terminal via crontab (for Linux and Mac). This allows us to run ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5bTkiV_Aadc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5bTkiV_Aadc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5bTkiV_Aadc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-01-07T16:41:32Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "wa1TVzgk5NuHwezPjqOInUc_6LU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "0Uzei5q2DFQ"
+        },
+        "snippet": {
+            "publishedAt": "2021-01-03T15:00:01Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "AI Learns To Play Snake In 100 Games #Shorts",
+            "description": "Watch how an AI Learns To Play Snake in 100 Games. The algorithm is implemented in Python with Pygame and PyTorch. \u2b50 Join Our Discord ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0Uzei5q2DFQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0Uzei5q2DFQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0Uzei5q2DFQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-01-03T15:00:01Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "YOrMuS7SivcYLTd_-OOPopmB29E",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "iWi4Z-5JNZw"
+        },
+        "snippet": {
+            "publishedAt": "2021-01-01T15:00:12Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Build A Website Blocker With Python - Task Automation Tutorial",
+            "description": "In this Python Tutorial we create a website blocker that automates the site blocking for us and helps us to be more productive. This can be helpful if you have a ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/iWi4Z-5JNZw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/iWi4Z-5JNZw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/iWi4Z-5JNZw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-01-01T15:00:12Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "dehboLQ7jXyP57K_4caqmrjoRso",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "VGkcmBaeAGM"
+        },
+        "snippet": {
+            "publishedAt": "2020-12-23T15:00:08Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame (Part 4)",
+            "description": "In this Python Reinforcement Learning Tutorial series we teach an AI to play Snake! We build everything from scratch using Pygame and PyTorch. In this fourth ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VGkcmBaeAGM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VGkcmBaeAGM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VGkcmBaeAGM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-12-23T15:00:08Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "npUlsy3Gh6wyvkMSO__aZu-amrU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "6pJBPPrDO40"
+        },
+        "snippet": {
+            "publishedAt": "2020-12-22T15:00:03Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame (Part 3)",
+            "description": "In this Python Reinforcement Learning Tutorial series we teach an AI to play Snake! We build everything from scratch using Pygame and PyTorch. In this third ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6pJBPPrDO40/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6pJBPPrDO40/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6pJBPPrDO40/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-12-22T15:00:03Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "sFgkwC8E_GYLNi65R3hNxgoXoAk",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "5Vy5Dxu7vDs"
+        },
+        "snippet": {
+            "publishedAt": "2020-12-21T15:00:01Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame (Part 2)",
+            "description": "In this Python Reinforcement Learning Tutorial series we teach an AI to play Snake! We build everything from scratch using Pygame and PyTorch. In this second ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5Vy5Dxu7vDs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5Vy5Dxu7vDs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5Vy5Dxu7vDs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-12-21T15:00:01Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "m_Lk6ryyDCYr2xXDNuCmFpnRuMQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "PJl4iabBEz0"
+        },
+        "snippet": {
+            "publishedAt": "2020-12-20T15:00:08Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame (Part 1)",
+            "description": "In this Python Reinforcement Learning Tutorial series we teach an AI to play Snake! We build everything from scratch using Pygame and PyTorch. In this first part ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PJl4iabBEz0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PJl4iabBEz0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PJl4iabBEz0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-12-20T15:00:08Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "bf_dbuyrbCNWiWmeoovZNPNqw5E",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "--nsd2ZeYvs"
+        },
+        "snippet": {
+            "publishedAt": "2020-12-08T15:30:00Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Python Snake Game With Pygame - Create Your First Pygame Application",
+            "description": "Implement the famous Snake game in this beginner tutorial and learn how to get started with pygame. Build your first pygame application and learn how to ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/--nsd2ZeYvs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/--nsd2ZeYvs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/--nsd2ZeYvs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-12-08T15:30:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "tOv3l4hln18kbnKjLX8KuU6JJkU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "81NJgoR5RfY"
+        },
+        "snippet": {
+            "publishedAt": "2020-11-21T15:00:06Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch LR Scheduler - Adjust The Learning Rate For Better Results",
+            "description": "In this PyTorch Tutorial we learn how to use a Learning Rate (LR) Scheduler to adjust the LR during training. Models often benefit from this technique once ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/81NJgoR5RfY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/81NJgoR5RfY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/81NJgoR5RfY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-11-21T15:00:06Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "rrM7XG-Pjx8rEtjmllerE0JNdTM",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "bi0cKgmRuiA"
+        },
+        "snippet": {
+            "publishedAt": "2020-11-14T14:30:01Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Docker Tutorial For Beginners - How To Containerize Python Applications",
+            "description": "In this Docker Tutorial I show how to get started with Docker for your Python Scripts and Python Web Apps. We look at two different projects and build Docker ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bi0cKgmRuiA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bi0cKgmRuiA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bi0cKgmRuiA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-11-14T14:30:01Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "PHrWM3EApaa3DdcFJ73SceDb5iw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "-pEs-Bss8Wc"
+        },
+        "snippet": {
+            "publishedAt": "2020-11-08T15:00:00Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Object Oriented Programming (OOP) In Python - Beginner Crash Course",
+            "description": "In this Beginner Object Oriented Programming (OOP) Tutorial I will be covering all the fundamentals about classes, objects, and inheritance in Python.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-pEs-Bss8Wc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-pEs-Bss8Wc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-pEs-Bss8Wc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-11-08T15:00:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "xr9kE8shj2hE4Tn6if3D9_bnaF0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "0RS9W8MtZe4"
+        },
+        "snippet": {
+            "publishedAt": "2020-11-04T15:00:00Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "FastAPI Introduction - Build Your First Web App - Python Tutorial",
+            "description": "FastAPI is a modern, fast web framework for building APIs with Python. In this Tutorial we have a look at some of its key features and then we build our first web ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0RS9W8MtZe4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0RS9W8MtZe4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0RS9W8MtZe4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-11-04T15:00:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "77JBl9zwiNqfi18WOvcgMfIgt5s",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "kxeyoyrf2cM"
+        },
+        "snippet": {
+            "publishedAt": "2020-10-26T15:30:01Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow Tutorial 11 - Text Classification - NLP Tutorial",
+            "description": "Implement a Sentiment Classification algorithm in TensorFlow and analyze Twitter data! Learn how to use NLP (Natural Language Processing) techniques like a ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kxeyoyrf2cM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kxeyoyrf2cM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kxeyoyrf2cM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-10-26T15:30:01Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "t_-qUWS2kV5EVkKUgK79TIasRFU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "IrPhMM_RUmg"
+        },
+        "snippet": {
+            "publishedAt": "2020-10-23T15:00:05Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow Tutorial 10 - Recurrent Neural Nets (RNN &amp; LSTM &amp; GRU)",
+            "description": "Implement a Recurrent Neural Net (RNN) in Tensorflow! RNNs are a class of neural networks that is powerful for modeling sequence data such as time series or ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IrPhMM_RUmg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IrPhMM_RUmg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IrPhMM_RUmg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-10-23T15:00:05Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "S3uwv59gz4X9h8ouGigdDXIv8LA",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "bYSeGBOLzqw"
+        },
+        "snippet": {
+            "publishedAt": "2020-10-16T13:30:03Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "5 Machine Learning BEGINNER Projects (+ Datasets &amp; Solutions)",
+            "description": "I this tutorial I share 5 Beginner Machine Learning projects with you, and I give you tips how to solve all of them. These projects are for complete beginners and ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bYSeGBOLzqw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bYSeGBOLzqw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bYSeGBOLzqw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-10-16T13:30:03Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "RLELUHa4BfUOPnS-WPxk0a2Qxtc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "8cN0PiZQl18"
+        },
+        "snippet": {
+            "publishedAt": "2020-10-11T11:00:03Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow Tutorial 09 - Transfer Learning",
+            "description": "New Tutorial series about TensorFlow 2! Learn all the basics you need to get started with this deep learning framework! Part 09: Transfer Learning In this part we ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8cN0PiZQl18/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8cN0PiZQl18/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8cN0PiZQl18/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-10-11T11:00:03Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "Zuy7tqV-qxRpkjD2waT57mHD8_U",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Li5c49YV9wA"
+        },
+        "snippet": {
+            "publishedAt": "2020-10-09T13:39:52Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow Tutorial 08 - Classify Lego Star Wars Minifigures | Full Project Walkthrough",
+            "description": "New Tutorial series about TensorFlow 2! Learn all the basics you need to get started with this deep learning framework! Part 08: Classify Star Wars Lego Figures ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Li5c49YV9wA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Li5c49YV9wA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Li5c49YV9wA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-10-09T13:39:52Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "ejpqDwh6aN9faVloea4YPugYpzU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "JN08CqZKKkA"
+        },
+        "snippet": {
+            "publishedAt": "2020-10-07T16:42:35Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow Tutorial 07 - Functional API + Multi-output Project",
+            "description": "New Tutorial series about TensorFlow 2! Learn all the basics you need to get started with this deep learning framework! Part 07: Functional API In this part we ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JN08CqZKKkA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JN08CqZKKkA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JN08CqZKKkA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-10-07T16:42:35Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "oFPRDbDI_5qFMt9OePqUjOTHzTk",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "NVY0FucNRU4"
+        },
+        "snippet": {
+            "publishedAt": "2020-10-05T14:30:01Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow Tutorial 06 - Save &amp; Load Models",
+            "description": "New Tutorial series about TensorFlow 2! Learn all the basics you need to get started with this deep learning framework! Part 06: Save & Load Models In this part ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NVY0FucNRU4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NVY0FucNRU4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NVY0FucNRU4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-10-05T14:30:01Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "mZWOV9yt837FJTvqPSY-ONSq9xY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "eMMZpas-zX0"
+        },
+        "snippet": {
+            "publishedAt": "2020-10-04T13:45:05Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow Tutorial 05 - Convolutional Neural Network (CNN)",
+            "description": "New Tutorial series about TensorFlow 2! Learn all the basics you need to get started with this deep learning framework! Part 05: Convolutional Neural Network ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/eMMZpas-zX0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/eMMZpas-zX0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/eMMZpas-zX0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-10-04T13:45:05Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "plTOx2wdYRZQbKyRseS0I87HIA0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "g2t7M2HTZ9U"
+        },
+        "snippet": {
+            "publishedAt": "2020-10-01T14:00:08Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow Tutorial 04 - Linear Regression - Full Project Walkthrough",
+            "description": "New Tutorial series about TensorFlow 2! Learn all the basics you need to get started with this deep learning framework! Part 04 - Linear Regression In this part ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/g2t7M2HTZ9U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/g2t7M2HTZ9U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/g2t7M2HTZ9U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-10-01T14:00:08Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "WUAc2XWZgPkE7avUmY5G8vUtJDU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Edhv7-4t0lc"
+        },
+        "snippet": {
+            "publishedAt": "2020-09-30T14:00:03Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow Tutorial 03 - First Neural Network (Training, Evaluation &amp; Prediction)",
+            "description": "New Tutorial series about TensorFlow 2! Learn all the basics you need to get started with this deep learning framework! Part 03: First Neural Network (+ Training, ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Edhv7-4t0lc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Edhv7-4t0lc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Edhv7-4t0lc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-09-30T14:00:03Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "H4nrOBMstXEowE0NopHoWt2YlB4",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLqnslRFeH2Uqfv1Vz3DqeQfy0w20ldbaV"
+        },
+        "snippet": {
+            "publishedAt": "2020-09-27T14:59:59Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow 2 Beginner Course",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hvgnX1gbsLA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hvgnX1gbsLA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hvgnX1gbsLA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-09-27T14:59:59Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "B9YATBetyCpMdJESShHQ5TPn11I",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "PcstG8qiObc"
+        },
+        "snippet": {
+            "publishedAt": "2020-09-27T14:48:42Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow Tutorial 02 - Tensor Basics - Beginner Course",
+            "description": "New Tutorial series about TensorFlow 2! Learn all the basics you need to get started with this deep learning framework! Part 02: Tensor Basics In this part I show ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PcstG8qiObc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PcstG8qiObc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PcstG8qiObc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-09-27T14:48:42Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "WjL4XrrtLPzWtbGF62XEASiqL64",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "hvgnX1gbsLA"
+        },
+        "snippet": {
+            "publishedAt": "2020-09-26T15:05:22Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TensorFlow Tutorial 01 - Installation - Beginner Course",
+            "description": "New Tutorial series about TensorFlow 2! Learn all the basics you need to get started with this deep learning framework! Part 01: Installation In this part I show ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hvgnX1gbsLA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hvgnX1gbsLA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hvgnX1gbsLA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-09-26T15:05:22Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "9mJq4hLXASb-8Jtk9vVhT_Uxf3Q",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "M3lZNbFJ6I0"
+        },
+        "snippet": {
+            "publishedAt": "2020-09-22T15:00:11Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Build A PyTorch Style Transfer Web App With Streamlit",
+            "description": "In this tutorial we build an interactive deep learning app with Streamlit and PyTorch to apply style transfer. This tutorial should demonstrate how easy interactive ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/M3lZNbFJ6I0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/M3lZNbFJ6I0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/M3lZNbFJ6I0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-09-22T15:00:11Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "maOnMb4CJBXZ05ryqlAmfBOji5M",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "aZJnGOwzHtU"
+        },
+        "snippet": {
+            "publishedAt": "2020-09-17T15:00:00Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Python Quick Tip: Debugger and breakpoint()",
+            "description": "Learn how to use the Python Debugger using the breakpoint() function in this Tutorial. \ud83e\ude81 Code faster with Kite, AI-powered autocomplete that integrates into VS ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aZJnGOwzHtU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aZJnGOwzHtU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aZJnGOwzHtU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-09-17T15:00:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "tzvfLIeOyY-hc5-M853w30zBpmc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "KjHKbmjFZLk"
+        },
+        "snippet": {
+            "publishedAt": "2020-09-15T15:00:07Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Python Quick Tip: Interactive Mode",
+            "description": "Learn how to use the interactive mode in Python. \ud83e\ude81 Code faster with Kite, AI-powered autocomplete that integrates into VS Code (affiliate link): ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/KjHKbmjFZLk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/KjHKbmjFZLk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/KjHKbmjFZLk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-09-15T15:00:07Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "eovJDBX3Hqy-GXpBZCPZkG_b_kU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "bEbExOKanR8"
+        },
+        "snippet": {
+            "publishedAt": "2020-09-14T15:30:02Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "10k Subscribers &amp; Channel Update",
+            "description": "Channel update and future video plans. \ud83e\ude81 Code faster with Kite, AI-powered autocomplete that integrates into VS Code (affiliate link): ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bEbExOKanR8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bEbExOKanR8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bEbExOKanR8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-09-14T15:30:02Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "lxZzUpD79Fets0OiJ1mTl_DN6ag",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "0_PgWWmauHk"
+        },
+        "snippet": {
+            "publishedAt": "2020-09-03T15:00:01Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial - RNN &amp; LSTM &amp; GRU - Recurrent Neural Nets",
+            "description": "Implement a Recurrent Neural Net (RNN) in PyTorch! Learn how we can use the nn.RNN module and work with an input sequence. I also show you how easily ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0_PgWWmauHk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0_PgWWmauHk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0_PgWWmauHk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-09-03T15:00:01Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "4XxjD66lTvnHBUCfzv9jvorBA4g",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "WEV61GmmPrk"
+        },
+        "snippet": {
+            "publishedAt": "2020-08-31T17:37:24Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch RNN Tutorial - Name Classification Using A Recurrent Neural Net",
+            "description": "Implement a Recurrent Neural Net (RNN) from scratch in PyTorch! I briefly explain the theory and different kinds of applications of RNNs. Then we implement a ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/WEV61GmmPrk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/WEV61GmmPrk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/WEV61GmmPrk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-08-31T17:37:24Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "yrwnMvFGqLmgzSPp4eNKskDy2wc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Hgg8Xy6IRig"
+        },
+        "snippet": {
+            "publishedAt": "2020-08-15T16:30:01Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Lightning Tutorial - Lightweight PyTorch Wrapper For ML Researchers",
+            "description": "PyTorch Lightning is a lightweight PyTorch wrapper that helps you scale your models and write less boilerplate code. In this Tutorial we learn about this ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Hgg8Xy6IRig/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Hgg8Xy6IRig/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Hgg8Xy6IRig/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-08-15T16:30:01Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "fimQ-rttdVOvo_zXLWCNLuf2dO8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Z3i04RoI9Fk"
+        },
+        "snippet": {
+            "publishedAt": "2020-08-12T10:00:06Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "My Minimal VS Code Setup for Python - 5 Visual Studio Code Extensions",
+            "description": "I show you my minimal Visual Studio Code Setup for Python Programming. I use only 5 Extensions. It's simple but allows me to be really productive. VS Code is ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Z3i04RoI9Fk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Z3i04RoI9Fk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Z3i04RoI9Fk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-08-12T10:00:06Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "HzqhDWAuXQpzfC2kO9SocCDtxr0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "9JUAPgtkKpI"
+        },
+        "snippet": {
+            "publishedAt": "2020-08-09T10:00:02Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "NumPy Crash Course 2020 - Complete Tutorial",
+            "description": "Learn NumPy in this complete 60 minutes Crash Course! I show you all the essential functions of NumPy, and some tricks and useful methods. NumPy is the ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9JUAPgtkKpI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9JUAPgtkKpI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9JUAPgtkKpI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-08-09T10:00:02Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "5K0WGIS6NSdQsFu6uWS3nVGchPY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "bA7-DEtYCNM"
+        },
+        "snippet": {
+            "publishedAt": "2020-08-05T10:00:10Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Create &amp; Deploy A Deep Learning App - PyTorch Model Deployment With Flask &amp; Heroku",
+            "description": "Create and Deploy your first Deep Learning app! In this PyTorch tutorial we learn how to deploy our PyTorch model with Flask and Heroku. We create a simple ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bA7-DEtYCNM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bA7-DEtYCNM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bA7-DEtYCNM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-08-05T10:00:10Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "Jr8b7IWHiqShe13dxs1S3QWO9ks",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "VbCGxhGTjeE"
+        },
+        "snippet": {
+            "publishedAt": "2020-07-26T10:00:08Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Coding Interview Question - Nth Fibonacci",
+            "description": "In this tutorial we will be solving a popular coding interview question in Python: Calculate the Nth Fibonacci number. I show 3 possible solutions that let you ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VbCGxhGTjeE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VbCGxhGTjeE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VbCGxhGTjeE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-07-26T10:00:08Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "9EWSHpqR-NfMRyQEKYWw3JBofk8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "M_npdRYD4K0"
+        },
+        "snippet": {
+            "publishedAt": "2020-07-16T16:33:56Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Snake Game In Python - Python Beginner Tutorial",
+            "description": "Implement the famous Snake game in this beginner tutorial! Learn also how to use the curses module to build terminal applications. This tutorial is aimed at ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/M_npdRYD4K0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/M_npdRYD4K0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/M_npdRYD4K0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-07-16T16:33:56Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "dX5_lolEa2vB2y9VpDnwyVNrqrg",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "8OKTAedgFYg"
+        },
+        "snippet": {
+            "publishedAt": "2020-07-05T15:38:52Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "11 Tips And Tricks To Write Better Python Code",
+            "description": "In this video, I show 11 Tips and Tricks to Write Better Python code! I show a lot of best practices that improve your code by making your code much cleaner and ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8OKTAedgFYg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8OKTAedgFYg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8OKTAedgFYg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-07-05T15:38:52Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "wGR-KfFcNGqEW2KYiCjU5hgMZm0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "yKHJsLUENl0"
+        },
+        "snippet": {
+            "publishedAt": "2020-06-28T10:00:14Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Python Flask Beginner Tutorial - Todo App - Crash Course",
+            "description": "Learn how to write your first TODO App with Flask in this Crash Course. Flask is one of the most popular web frameworks written in Python. Flask is a lightweight ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yKHJsLUENl0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yKHJsLUENl0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yKHJsLUENl0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-06-28T10:00:14Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "T4ycDBC9PVnNDgusEgfAX1bPG5I",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "k1SzvvFtl4w"
+        },
+        "snippet": {
+            "publishedAt": "2020-06-11T10:00:14Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Chat Bot With PyTorch - NLP And Deep Learning - Python Tutorial (Part 4)",
+            "description": "In this Python Tutorial we build a simple chatbot using PyTorch and Deep Learning. I will also provide an introduction to some basic Natural Language ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/k1SzvvFtl4w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/k1SzvvFtl4w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/k1SzvvFtl4w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-06-11T10:00:14Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "3ix536o4HsFvyLKIv8S9FUH7Gho",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Da-iHgrmHYg"
+        },
+        "snippet": {
+            "publishedAt": "2020-06-10T10:00:07Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Chat Bot With PyTorch - NLP And Deep Learning - Python Tutorial (Part 3)",
+            "description": "In this Python Tutorial we build a simple chatbot using PyTorch and Deep Learning. I will also provide an introduction to some basic Natural Language ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Da-iHgrmHYg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Da-iHgrmHYg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Da-iHgrmHYg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-06-10T10:00:07Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "P1bvfNvfj9k4Ew3zwevgShRVOUQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "8qwowmiXANQ"
+        },
+        "snippet": {
+            "publishedAt": "2020-06-09T10:00:03Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Chat Bot With PyTorch - NLP And Deep Learning - Python Tutorial (Part 2)",
+            "description": "In this Python Tutorial we build a simple chatbot using PyTorch and Deep Learning. I will also provide an introduction to some basic Natural Language ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8qwowmiXANQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8qwowmiXANQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8qwowmiXANQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-06-09T10:00:03Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "tI1QRxnUM4tlNcdTVGImg-FJJxU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "RpWeNzfSUHw"
+        },
+        "snippet": {
+            "publishedAt": "2020-06-08T17:56:35Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Chat Bot With PyTorch - NLP And Deep Learning - Python Tutorial (Part 1)",
+            "description": "In this Python Tutorial we build a simple chatbot using PyTorch and Deep Learning. I will also provide an introduction to some basic Natural Language ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/RpWeNzfSUHw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/RpWeNzfSUHw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/RpWeNzfSUHw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-06-08T17:56:35Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "lO1MqZ7oT1RKBKxtujxjpBR9RYc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Klqn--Mu2pE"
+        },
+        "snippet": {
+            "publishedAt": "2020-06-03T10:30:40Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Build A Beautiful Machine Learning Web App With Streamlit And Scikit-learn | Python Tutorial",
+            "description": "In this tutorial we build an interactive machine learning app with Streamlit and Scikit-learn to explore different datasets and classifier. This tutorial should ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Klqn--Mu2pE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Klqn--Mu2pE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Klqn--Mu2pE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-06-03T10:30:40Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "I_HoX-YjPKrMK6Hcmb9mH7ShPk0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "yCYPzoG25ak"
+        },
+        "snippet": {
+            "publishedAt": "2020-05-17T11:30:08Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Build &amp; Deploy A Python Web App To Automate Twitter | Flask, Heroku, Twitter API &amp; Google Sheets API",
+            "description": "Build & Deploy a Python web app to schedule Tweets. I'm using Flask, Heroku, the Twitter API, and Google Sheets API for this. You can watch how I build this ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yCYPzoG25ak/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yCYPzoG25ak/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yCYPzoG25ak/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-05-17T11:30:08Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "cGFEXsfI-dwhi6cf-p3bnEqVbzw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "T1vqS1NL89E"
+        },
+        "snippet": {
+            "publishedAt": "2020-05-16T13:05:02Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Google Sheets and Python - Tutorial 2020",
+            "description": "Learn how to use Google Sheets API in Python. We are using the gspread module for this. It's super simple to setup a project, and then access and modify our ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/T1vqS1NL89E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/T1vqS1NL89E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/T1vqS1NL89E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-05-16T13:05:02Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "QmKojXVQDvsf_OXzr1dnN-ImXoo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "9IDXYHhAfGA"
+        },
+        "snippet": {
+            "publishedAt": "2020-05-08T13:00:04Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "LDA (Linear Discriminant Analysis) In Python - ML From Scratch 14 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the LDA algorithm using only built-in Python modules and numpy. LDA (Linear ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9IDXYHhAfGA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9IDXYHhAfGA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9IDXYHhAfGA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-05-08T13:00:04Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "nmdBUEiqFqp9AmGycBjV7yCASg8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "aP2KJoTITO0"
+        },
+        "snippet": {
+            "publishedAt": "2020-04-30T12:39:24Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "TinyDB in Python - Simple Database For Personal Projects",
+            "description": "In this Python Tutorial, I want to show you how to work with TinyDB. TinyDB is a tiny, document oriented database which is perfect for small personal projects.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aP2KJoTITO0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aP2KJoTITO0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aP2KJoTITO0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-04-30T12:39:24Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "Yjb3Slg9VJORq7QzgT_tBC9Z610",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "eivDTOlA0TE"
+        },
+        "snippet": {
+            "publishedAt": "2020-04-28T14:10:41Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "How To Load Machine Learning Data From Files In Python",
+            "description": "The common data format in Machine Learning is a CSV file (comma separated values). In this Tutorial I show 4 different ways how you can load the data from ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/eivDTOlA0TE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/eivDTOlA0TE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/eivDTOlA0TE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-04-28T14:10:41Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "iW9BP2LDASI0AqXOb3X8Jk5VrGc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "AEE9ecgLgdQ"
+        },
+        "snippet": {
+            "publishedAt": "2020-04-19T13:50:49Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Regular Expressions in Python - FULL COURSE (1 HOUR) - Programming Tutorial",
+            "description": "In this Python Tutorial, we will be learning about Regular Expressions (Regex) in Python. Regular expressions are a powerful language for matching text ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AEE9ecgLgdQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AEE9ecgLgdQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AEE9ecgLgdQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-04-19T13:50:49Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "8NuGHAKf2JfONveOgGlJ72I_swg",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "9L9jEOwRrCg"
+        },
+        "snippet": {
+            "publishedAt": "2020-04-13T18:03:59Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 17 - Saving and Loading Models",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn how to save and load our model. I will show you the ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9L9jEOwRrCg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9L9jEOwRrCg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9L9jEOwRrCg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-04-13T18:03:59Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "ds4SDj9uuUq9-82R220KwVIMK1o",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "VJW9wU-1n18"
+        },
+        "snippet": {
+            "publishedAt": "2020-03-30T15:59:25Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 16 - How To Use The TensorBoard",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn about the TensorBoard and how we can use it to visualize ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VJW9wU-1n18/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VJW9wU-1n18/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VJW9wU-1n18/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-03-30T15:59:25Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "B4V-py3nn9uRUC_p5fUKDZYGBIE",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "dYvt3vSJaQA"
+        },
+        "snippet": {
+            "publishedAt": "2020-03-23T14:32:45Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Complete FREE Study Guide for Machine Learning and Deep Learning",
+            "description": "A complete study plan to become a Machine Learning Engineer with links to all FREE resources. If you finish the list you will be equipped with enough ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dYvt3vSJaQA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dYvt3vSJaQA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dYvt3vSJaQA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-03-23T14:32:45Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "XZOp28XsUbUNldE7EL35K2Cffwo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "wF5t4Mmv5us"
+        },
+        "snippet": {
+            "publishedAt": "2020-03-16T20:04:26Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "AdaBoost in Python - Machine Learning From Scratch 13 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the AdaBoost algorithm using only built-in Python modules and numpy. AdaBoost is ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wF5t4Mmv5us/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wF5t4Mmv5us/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wF5t4Mmv5us/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-03-16T20:04:26Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "IPuBJIFPGp1qLPF_BeFS6Di9HvA",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "XqYpE6jqdww"
+        },
+        "snippet": {
+            "publishedAt": "2020-03-09T16:54:04Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "YouTube Data API Tutorial with Python - Analyze the Data - Part 4",
+            "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series: - Part 1: ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XqYpE6jqdww/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XqYpE6jqdww/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XqYpE6jqdww/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-03-09T16:54:04Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "cT6thHz-nVJ9fL3y4apQeZN26TY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "itiRd7iZ2_M"
+        },
+        "snippet": {
+            "publishedAt": "2020-03-08T13:00:14Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "YouTube Data API Tutorial with Python - Get Video Statistics - Part 3",
+            "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series: - Part 1: ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/itiRd7iZ2_M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/itiRd7iZ2_M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/itiRd7iZ2_M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-03-08T13:00:14Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "UmUbrUb2DI6oz6UN1m9voW4Fu0E",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "4FwXqOT4-FM"
+        },
+        "snippet": {
+            "publishedAt": "2020-03-07T13:27:31Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "YouTube Data API Tutorial with Python - Find Channel Videos - Part 2",
+            "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series: - Part 1: ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4FwXqOT4-FM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4FwXqOT4-FM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4FwXqOT4-FM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-03-07T13:27:31Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "IeLWTWmNRL6wtyjnUbGMrLxZ9WU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "5qtC-tsQ-wE"
+        },
+        "snippet": {
+            "publishedAt": "2020-02-23T11:59:11Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "YouTube Data API Tutorial with Python - Analyze Channel Statistics - Part 1",
+            "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series: - Part 1: ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5qtC-tsQ-wE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5qtC-tsQ-wE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5qtC-tsQ-wE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-02-23T11:59:11Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "veeI0iDO8Aib8EQ407ZSQVVtoq8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "K0lWSB2QoIQ"
+        },
+        "snippet": {
+            "publishedAt": "2020-02-12T17:57:47Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 15 - Transfer Learning",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn about transfer learning and how this can be implemented ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/K0lWSB2QoIQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/K0lWSB2QoIQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/K0lWSB2QoIQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-02-12T17:57:47Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "G0zmxcGZCao2g_lNvvvoz-uv73A",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Q8oRicpUeuw"
+        },
+        "snippet": {
+            "publishedAt": "2020-02-09T16:07:56Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "The Walrus Operator - New in Python 3.8 - Python Tutorial",
+            "description": "In this Python Tutorial I show you the new assignment expression also known as the walrus operator. This Python feature is new in Python 3.8. It can be used to ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Q8oRicpUeuw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Q8oRicpUeuw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Q8oRicpUeuw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-02-09T16:07:56Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "LKh4sNtO9NoacT8H3lMmNV5EkN8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "pDdP0TFzsoQ"
+        },
+        "snippet": {
+            "publishedAt": "2020-02-07T15:32:59Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 14 - Convolutional Neural Network (CNN)",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will implement our first convolutional neural network (CNN) that can ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pDdP0TFzsoQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pDdP0TFzsoQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pDdP0TFzsoQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-02-07T15:32:59Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "ICQnANmxJV0zPa4zRuXx_XsRmlI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "FptVpIPhdpM"
+        },
+        "snippet": {
+            "publishedAt": "2020-02-02T14:00:02Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "How To Add A Progress Bar In Python With Just One Line - Python Tutorial",
+            "description": "In this Python Tutorial I show you how you can add a Progress Bar to your Python code in just one line of code! We use the great 'tqdm' module for this that can ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FptVpIPhdpM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FptVpIPhdpM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FptVpIPhdpM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-02-02T14:00:02Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "CwGiBkT8I9suKLuo0XyBkw67iDQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "oPhxf2fXHkQ"
+        },
+        "snippet": {
+            "publishedAt": "2020-01-30T20:44:23Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 13 - Feed-Forward Neural Network",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will implement our first multilayer neural network that can do digit ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/oPhxf2fXHkQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/oPhxf2fXHkQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/oPhxf2fXHkQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-01-30T20:44:23Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "Ild6C3qHZrOqeF9jBxaI6MYQWwQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "RaIu2-NM0t0"
+        },
+        "snippet": {
+            "publishedAt": "2020-01-25T15:00:05Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "List Comprehension in Python - A Python Feature You MUST KNOW - Python Tutorial",
+            "description": "In this Python Tutorial we will be learning about Lists Comprehension in Python. List comprehension provides a simple and concise way to create lists. It is a ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/RaIu2-NM0t0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/RaIu2-NM0t0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/RaIu2-NM0t0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-01-25T15:00:05Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "JTwuc_oognqigCigZ4hK-f73uio",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "3t9lZM7SS7k"
+        },
+        "snippet": {
+            "publishedAt": "2020-01-22T14:08:46Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 12 - Activation Functions",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn about activation functions in neural nets. What are activation ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3t9lZM7SS7k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3t9lZM7SS7k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3t9lZM7SS7k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-01-22T14:08:46Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "CvdYBEATjlE01z2GBtYpNLgKVws",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "FoPPgcpSmNs"
+        },
+        "snippet": {
+            "publishedAt": "2020-01-18T15:00:06Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Select Movies with Python - Web Scraping Tutorial",
+            "description": "Welcome to a fun little Python Tutorial! Scrape the IMDb Top 250 movies and let Python choose a movie for you! Learn how to use requests and BeautifulSoup to ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FoPPgcpSmNs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FoPPgcpSmNs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FoPPgcpSmNs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-01-18T15:00:06Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "yu3ZjtXWzBktIW8m9srodSJSvZs",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "7q7E91pHoW4"
+        },
+        "snippet": {
+            "publishedAt": "2020-01-14T16:00:01Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 11 - Softmax and Cross Entropy",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn about the softmax function and the cross entropy loss function ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7q7E91pHoW4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7q7E91pHoW4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7q7E91pHoW4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-01-14T16:00:01Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "qLeMqwuHuzFxwsDg5UwlIaWHxek",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "t2k5Lsbpj8Y"
+        },
+        "snippet": {
+            "publishedAt": "2020-01-11T14:00:07Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Download Images With Python Automatically - Python Web Scraping Tutorial",
+            "description": "Learn how we can automatically scrape and download images from Google Images with Python. We will use two Python packages called requests and ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/t2k5Lsbpj8Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/t2k5Lsbpj8Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/t2k5Lsbpj8Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-01-11T14:00:07Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "DYUtTimdvOkfabsb85IrQuX3TdM",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "X_QOZEko5uE"
+        },
+        "snippet": {
+            "publishedAt": "2020-01-07T15:00:06Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 10 - Dataset Transforms",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn how we can use dataset transforms together with the built-in ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/X_QOZEko5uE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/X_QOZEko5uE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/X_QOZEko5uE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-01-07T15:00:06Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "y8tUfjuTKPH2I_pKgyONvJSwTlE",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "PXOzkkB5eH0"
+        },
+        "snippet": {
+            "publishedAt": "2020-01-04T16:02:06Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 09 - Dataset and DataLoader - Batch Training",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we see how we can use the built-in Dataset and DataLoader classes ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PXOzkkB5eH0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PXOzkkB5eH0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PXOzkkB5eH0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-01-04T16:02:06Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "389NQrUhy3x8ULZro-CVI-ErCD8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "OGpQxIkR4ao"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-30T14:00:02Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 08 - Logistic Regression",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we implement a logistic regression algorithm and apply all the ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/OGpQxIkR4ao/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/OGpQxIkR4ao/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/OGpQxIkR4ao/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-30T14:00:02Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "ndG-Ii9kpLyA9KBToFfiXAdMbbM",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "YAJ5XBwlN4o"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-29T22:00:24Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 07 - Linear Regression",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we implement a logistic regression algorithm and apply all the ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YAJ5XBwlN4o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YAJ5XBwlN4o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YAJ5XBwlN4o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-29T22:00:24Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "W_NEG33Sa-95rAK6mA1Ph4-vuEM",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "VVDHU_TWwUg"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-28T11:00:06Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 06 - Training Pipeline: Model, Loss, and Optimizer",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we improve the code from the last part and will learn how a complete ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VVDHU_TWwUg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VVDHU_TWwUg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VVDHU_TWwUg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-28T11:00:06Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "dwqHqR9U-qenwopRTH4ypgVxHWE",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "E-I2DNVzQLg"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-27T11:00:05Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 05 - Gradient Descent with Autograd and Backpropagation",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn how we can use the autograd engine in practice. First we ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/E-I2DNVzQLg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/E-I2DNVzQLg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/E-I2DNVzQLg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-27T11:00:05Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "Fp4m2xVgvIq5CBuLa4R8QYr-fgs",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "3Kb0QS6z7WA"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-26T11:00:00Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 04 - Backpropagation - Theory With Example",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part I will explain the famous backpropagation algorithm. I will explain all ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3Kb0QS6z7WA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3Kb0QS6z7WA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3Kb0QS6z7WA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-26T11:00:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "e5_tPiE-_dl-KHDOHsTKHy1_Uhw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "DbeIqrwb_dE"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-25T09:44:56Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 03 - Gradient Calculation With Autograd",
+            "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn how to calculate gradients using the autograd package in ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DbeIqrwb_dE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DbeIqrwb_dE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DbeIqrwb_dE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-25T09:44:56Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "ucML12oGJqZU9khtf0XKO9kfwTI",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-22T08:05:19Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorials - Complete Beginner Course",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EMXfZB8FVUA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EMXfZB8FVUA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EMXfZB8FVUA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-22T08:05:19Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "zerCRalGUtf95bHiAu-6yVjKUhU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "exaWOE8jvy8"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-16T12:42:28Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 02 - Tensor Basics",
+            "description": "Learn all the basics you need to get started with this deep learning framework! This part covers the basics of Tensors and Tensor operations in PyTorch.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/exaWOE8jvy8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/exaWOE8jvy8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/exaWOE8jvy8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-16T12:42:28Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "VtnQfYkq0KcgEdomi7towMVNo5I",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "EMXfZB8FVUA"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-13T22:33:16Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PyTorch Tutorial 01 - Installation",
+            "description": "New Tutorial series about PyTorch! Learn all the basics you need to get started with this deep learning framework! Part 01: Installation I show you how I install ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EMXfZB8FVUA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EMXfZB8FVUA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EMXfZB8FVUA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-13T22:33:16Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "B0nVXwczSGdjCm3zKcWcPs2sIjA",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "9nEh-OXVaNI"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-08T16:54:34Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Anaconda Tutorial - Installation and Basic Commands",
+            "description": "In this Tutorial I show you how you can install and use Anaconda. Anaconda is a free Python distribution specifically designed for scientific computing. It' great ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9nEh-OXVaNI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9nEh-OXVaNI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9nEh-OXVaNI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-08T16:54:34Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "N8TQQrjWIjcl04Ey0nPJRK2vR6I",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "vtuH4VRq1AU"
+        },
+        "snippet": {
+            "publishedAt": "2019-12-04T16:30:02Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "K-Means Clustering in Python - Machine Learning From Scratch 12 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a K-Means algorithm using only built-in Python modules and numpy. We will also ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vtuH4VRq1AU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vtuH4VRq1AU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vtuH4VRq1AU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-12-04T16:30:02Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "jS2437oiDEf9PXvesVeljizFLXo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "52d7ha-GdV8"
+        },
+        "snippet": {
+            "publishedAt": "2019-11-30T16:00:00Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "PCA (Principal Component Analysis) in Python - Machine Learning From Scratch 11 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a PCA algorithm using only built-in Python modules and numpy. We will also learn ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/52d7ha-GdV8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/52d7ha-GdV8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/52d7ha-GdV8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-11-30T16:00:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "77mwh26QjmOEQCcGeD_P2c2sHL8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Oq1cKjR8hNo"
+        },
+        "snippet": {
+            "publishedAt": "2019-11-27T16:30:00Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Random Forest in Python - Machine Learning From Scratch 10 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a Random Forest algorithm using only built-in Python modules and numpy. We will ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Oq1cKjR8hNo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Oq1cKjR8hNo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Oq1cKjR8hNo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-11-27T16:30:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "v7HJEa61DSUVdSTVAIONc2v-pxM",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Bqi7EFFvNOg"
+        },
+        "snippet": {
+            "publishedAt": "2019-11-22T10:30:00Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Decision Tree in Python Part 2/2 - Machine Learning From Scratch 09 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a Decision Tree algorithm using only built-in Python modules and numpy. We will also ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Bqi7EFFvNOg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Bqi7EFFvNOg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Bqi7EFFvNOg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-11-22T10:30:00Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "_k7h0xNB9b55S5Gi-XoDMvrhQw0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "jVh5NA9ERDA"
+        },
+        "snippet": {
+            "publishedAt": "2019-11-21T21:56:50Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Decision Tree in Python Part 1/2 - Machine Learning From Scratch 08 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a Decision Tree algorithm using only built-in Python modules and numpy. We will also ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jVh5NA9ERDA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jVh5NA9ERDA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jVh5NA9ERDA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-11-21T21:56:50Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "OB11k_P-sZlht7p-cSr5QVBQ4zw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "UX0f9BNBcsY"
+        },
+        "snippet": {
+            "publishedAt": "2019-10-19T10:38:49Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "SVM (Support Vector Machine) in Python - Machine Learning From Scratch 07 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a SVM (Support Vector Machine) algorithm using only built-in Python modules and ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UX0f9BNBcsY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UX0f9BNBcsY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UX0f9BNBcsY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-10-19T10:38:49Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "HI69TbMdTgTBibSxaJKhduZnYQo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "t2ym2a3pb_Y"
+        },
+        "snippet": {
+            "publishedAt": "2019-10-11T15:22:09Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Perceptron in Python - Machine Learning From Scratch 06 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a single-layer Perceptron algorithm using only built-in Python modules and numpy.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/t2ym2a3pb_Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/t2ym2a3pb_Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/t2ym2a3pb_Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-10-11T15:22:09Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "iWcjguegw48B95EC9jnqOFGIQoY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "BqUmKsfSWho"
+        },
+        "snippet": {
+            "publishedAt": "2019-09-29T16:00:04Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Naive Bayes in Python - Machine Learning From Scratch 05 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the Naive Bayes algorithm, using only built-in Python modules and numpy. We will ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BqUmKsfSWho/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BqUmKsfSWho/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BqUmKsfSWho/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-09-29T16:00:04Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "NNCHg_4s_TF_5kGiCKj6DM_OLtk",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "PC7cVBbU7UQ"
+        },
+        "snippet": {
+            "publishedAt": "2019-09-22T16:00:06Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Linear and Logistic Regression in 60 lines of Python - Machine Learning From Scratch 04",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to refactor the code from the previous two videos. We will implement Linear and Logistic ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PC7cVBbU7UQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PC7cVBbU7UQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PC7cVBbU7UQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-09-22T16:00:06Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "JUVDlHhk0DJ6VZmrCeShBu7epTM",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "JDU3AzH3WKg"
+        },
+        "snippet": {
+            "publishedAt": "2019-09-15T16:00:02Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Logistic Regression in Python - Machine Learning From Scratch 03 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the Logistic Regression algorithm, using only built-in Python modules and numpy.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JDU3AzH3WKg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JDU3AzH3WKg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JDU3AzH3WKg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-09-15T16:00:02Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "CgS2uxiJvyk3-EeBKbfMEOZh6d0",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E"
+        },
+        "snippet": {
+            "publishedAt": "2019-09-11T13:47:38Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Machine Learning from Scratch - Python Tutorials",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ngLyX54e1LU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ngLyX54e1LU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ngLyX54e1LU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-09-11T13:47:38Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "r-aafVTJUezTcUAAH-4B2TJsm7w",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "4swNt7PiamQ"
+        },
+        "snippet": {
+            "publishedAt": "2019-09-11T13:25:56Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Linear Regression in Python - Machine Learning From Scratch 02 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the Linear Regression algorithm, using only built-in Python modules and numpy.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4swNt7PiamQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4swNt7PiamQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4swNt7PiamQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-09-11T13:25:56Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "tAWrcCHqkgw6VfJOqH66wyveU5c",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "ngLyX54e1LU"
+        },
+        "snippet": {
+            "publishedAt": "2019-09-03T15:00:07Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "KNN (K Nearest Neighbors) in Python - Machine Learning From Scratch 01 - Python Tutorial",
+            "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the K Nearest Neighbors (KNN) algorithm, using only built-in Python modules and ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ngLyX54e1LU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ngLyX54e1LU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ngLyX54e1LU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-09-03T15:00:07Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "mrXoCIUGkc9qN4RV52RveJqbJQ0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "YE6a31J65Rc"
+        },
+        "snippet": {
+            "publishedAt": "2019-08-25T15:00:10Z",
+            "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+            "title": "Context Managers in Python - Advanced Python 21 - Programming Tutorial",
+            "description": "In this Python Advanced Tutorial, we will talk about context managers and the with statement. Context managers are a great tool for resource management.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YE6a31J65Rc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YE6a31J65Rc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YE6a31J65Rc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Python Engineer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-08-25T15:00:10Z"
+        }
+    }
+]
