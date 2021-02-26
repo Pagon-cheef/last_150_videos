@@ -14,17 +14,6 @@ params = {
         "maxResults": 50
 }
 
-# nextPageToken = data.get('nextPageToken')
-#
-# while nextPageToken:
-#     response = requests.get(url + f"&pageToken={nextPageToken}")
-#     data["items"] += response.json()["items"]
-#
-#     if "nextPageToken" in response:
-#         nextPageToken = True
-#     else:
-#         nextPageToken = False
-
 
 def save_to_json_file(file_name, data):
     with open("job.json", "w") as f:
@@ -33,6 +22,7 @@ def save_to_json_file(file_name, data):
 
 def save_to_txt_file(file_name, data):
     """
+    Функция сохраняет результаты работы скрипта в текстовый файл.
 
     Parameters:
         file_name - (string) Имя сохраняемого файла
@@ -64,8 +54,23 @@ def fetch_all_channel_videos(channel_url: str):
         playListItem Dict
     """
 
+    page_token = None
+    while True:
+        next_page_token = f"&pageToken={page_token}" if page_token else ''
+
     res = requests.get(channel_url, params=params)
     data = res.json()
+
+    # nextPageToken = data.get('nextPageToken')
+    #
+    # while nextPageToken:
+    #     response = requests.get(url + f"&pageToken={nextPageToken}")
+    #     data["items"] += response.json()["items"]
+    #
+    #     if "nextPageToken" in response:
+    #         nextPageToken = True
+    #     else:
+    #         nextPageToken = False
 
     #     while 'nextPageToken' in res:
 #             nextPage = youtube.playlistItems().list(
