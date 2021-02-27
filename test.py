@@ -20,3 +20,19 @@ params = {
 res = requests.get(url, params=params)
 
 print(res.url)
+
+# while 'nextPageToken' in res:
+#     nextPage = youtube.playlistItems().list(
+#     part="snippet",
+#     playlistId=playlistId,
+#     maxResults="50",
+#     pageToken=nextPageToken
+#     ).execute()
+#     res['items'] = res['items'] + nextPage['items']
+#
+#     if 'nextPageToken' not in nextPage:
+#         res.pop('nextPageToken', None)
+#     else:
+#         nextPageToken = nextPage['nextPageToken']
+#
+# return res
