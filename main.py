@@ -1,18 +1,46 @@
+"""
+Этот модуль предназначен для поиска последних 150 видео в указанном канале Youtube
+
+Принимает на вход URL - адрес канала (можно указать несколько)
+На выходе получаем TXT файл со списком последних 150 видосов с наименованием видео
+и ссылкой на него.
+"""
+
 import glob
 import json
 import os
 import requests
+from time import sleep
 
 # Your API_KEY must be specified here
 api_key = os.environ["YT_API_KEY"]
 
 
 def save_to_json_file(file_name: str, data: dict):
+    """
+    Функция записывает промежуточные JSON файлы, из которых позже собирается вся нужная информация.
+
+    Функция записывает файл формата JSON, если в имени файла присутствут каталог, то функция
+    предварительно создаст этот каталог.
+    Пример: save_to_json_file("d:\\folder\\file.json", "{'key': value}")
+
+    Parameters:
+        file_name - (string) Полное имя файла для записи (с расширением)
+        data - (Dict) Словарь для записи в файл
+    """
+    # Выделяем путь из имени файла
+    path_for_file = os.path.split(file_name)[0]
+
+    # Создаем папку для файла
+    if not os.path.isdir(path_for_file):
+        os.mkdir(path_for_file)
+
+    # Создаем сам файл
     with open(file_name, "w") as f:
         json.dump(data, f, indent=4)
 
 
-def save_to_txt_file(file_name: str, data: dict):
+def save_to_txt_file(file_name: str, data: list):
     """
     Функция сохраняет результаты работы скрипта в текстовый файл.
 
@@ -24,7 +52,7 @@ def save_to_txt_file(file_name: str, data: dict):
     """
 
     # Пробегаемся по всем 50 элементам (саписям о видосах)
-    for count, item in enumerate(data["items"]):
+    for count, item in enumerate(data):
         try:
             link = f'https://www.youtube.com/watch?v={item["id"]["videoId"]}'
         except Exception:
@@ -34,7 +62,7 @@ def save_to_txt_file(file_name: str, data: dict):
         title = item["snippet"]["title"]
 
         with open(file_name, "a", encoding="utf-8") as file:
-            file.write(f"{count + 1}) {channel}-{title}\n{link}\n")
+            file.write(f"{count + 1}) {channel} - {title}\n{link}\n")
 
 
 def fetch_all_channel_videos(channel_url: str):
@@ -72,6 +100,7 @@ def fetch_all_channel_videos(channel_url: str):
         print(f"Файл: json/videos_{index}.json записан!")
 
         index += 1
+        sleep(2)
 
         page_token = data.get("nextPageToken")
         if not page_token:
@@ -80,10 +109,18 @@ def fetch_all_channel_videos(channel_url: str):
 
 if __name__ == '__main__':
     # url = "https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA"
-    # fetch_all_channel_videos(url)
+
+    url = "https://www.youtube.com/channel/UC295-Dw_tDNtZXFeAPAW6Aw"
+
+    fetch_all_channel_videos(url)
 
     files = glob.glob("json/*.json")
+    videos_items = []
     for file in files:
         with open(file, "r") as f:
             info = json.loads(f.read())
-        save_to_txt_file("videos.txt", info)
+        videos_items.extend(info["items"])
+
+    save_to_txt_file("videos.txt", videos_items[:150])
+
+    # TODO: Сделать считывание каналов из текстового файла
